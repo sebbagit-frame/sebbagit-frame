@@ -1,4 +1,4 @@
-# 👋Hola, soy Sebastián
+# Hola, soy Sebastián
 
 **Desarrollador de Software en formación · Buenos Aires, Argentina**
 
