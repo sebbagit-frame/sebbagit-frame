@@ -2,7 +2,7 @@
 
 **Desarrollador de Software en formación · Buenos Aires, Argentina**
 
-Estudiante de Tecnicatura en Desarrollo de Software. Me enfoco en el desarrollo frontend con tecnologías modernas. Actualmente construyendo proyectos reales para consolidar mis habilidades y conseguir mi primera oportunidad profesional.
+Estudiante de Tecnicatura Superior en Soporte de Infraestructuras. Me enfoco en el desarrollo frontend con tecnologías modernas. Actualmente construyendo proyectos reales para consolidar mis habilidades y conseguir mi primera oportunidad profesional.
 
 ---
 
