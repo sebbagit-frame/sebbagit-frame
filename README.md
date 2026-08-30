@@ -1,6 +1,6 @@
 # Hola, soy Sebastián
 
-**Desarrollador de Software en formación · Buenos Aires, Argentina**
+**Soporte técnico en formación · Buenos Aires, Argentina**
 
 Estudiante de Tecnicatura Superior en Soporte de Infraestructuras. Me enfoco en el desarrollo frontend con tecnologías modernas. Actualmente construyendo proyectos reales para consolidar mis habilidades y conseguir mi primera oportunidad profesional.
 
